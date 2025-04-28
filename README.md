@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an app to showcase my frontend skills<br><br>🌱 I’m improving my skills in React, TypeScript, and backend with Node.js & MongoDB<br><br>💼 I have 2 years of experience as a frontend developer, mostly working with React, MUI, Redux, and TypeScript<br><br>🎯 My goal is to grow as a full-stack developer and build clean, scalable applications<br><br>📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mostafa-qobadi-a26691241/) | mos.qobadi@gmail.com | [Portfolio](https://portfolio-mos-projects-69f075c2.vercel.app/)<br><br>🧠 Fun Fact: I love solving UI challenges and improving UX in every project
+🔭 I’m currently working on an app to showcase my frontend skills<br><br>🌱 I’m improving my skills in React, TypeScript<br><br>💼 I have 2 years of experience as a frontend developer, mostly working with React, MUI, Redux, and TypeScript<br><br>🎯 My goal is to grow as a full-stack developer and build clean, scalable applications<br><br>📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mostafa-qobadi-a26691241/) | mos.qobadi@gmail.com | [Portfolio](https://portfolio-mos-projects-69f075c2.vercel.app/)<br><br>🧠 Fun Fact: I love solving UI challenges and improving UX in every project
 
 
 ## 🌐 Socials:
